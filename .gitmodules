@@ -16,3 +16,9 @@
 [submodule "Projectile"]
 	path = Projectile
 	url = git@github.com:coleridge113/Projectile
+[submodule "Tetris"]
+	path = Tetris
+	url = git@github.com:coleridge113/Tetris
+[submodule "Platformer"]
+	path = Platformer
+	url = git@github.com:coleridge113/Platformer
