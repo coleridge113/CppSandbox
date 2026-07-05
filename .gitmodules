@@ -1,0 +1,18 @@
+[submodule "BrickBreaker"]
+	path = BrickBreaker
+	url = git@github.com:coleridge113/BrickBreaker
+[submodule "2DGame"]
+	path = 2DGame
+	url = git@github.com:coleridge113/2DGame
+[submodule "Slingshot"]
+	path = Slingshot
+	url = git@github.com:coleridge113/Slingshot
+[submodule "MusicVisualizer"]
+	path = MusicVisualizer
+	url = git@github.com:coleridge113/MusicVisualizer
+[submodule "OrderBooks"]
+	path = OrderBooks
+	url = git@github.com:coleridge113/OrderBooks
+[submodule "Projectile"]
+	path = Projectile
+	url = git@github.com:coleridge113/Projectile
